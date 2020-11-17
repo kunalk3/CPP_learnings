@@ -1,2 +1,2 @@
 # CPP_learnings
- This is the place where CPP concepts are demonstrates for learning base only.
+ Few design patterns in CPP are available for learning base and understanding as well.
