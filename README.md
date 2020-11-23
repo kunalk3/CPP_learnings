@@ -8,4 +8,4 @@ Every file represents a standalone compilable program. Use below syntax without 
 
 1) [__Abstract Design Pattern__](abstract_factory.cpp)
 
-2) [Adapter Design Pattern](adapter.cpp)
+2) [__Adapter Design Pattern__](adapter.cpp)
