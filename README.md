@@ -1,5 +1,11 @@
-Few design patterns in CPP are available for learning base and understanding as well.
+## Modern CPP Design Patterns
 
-1) [Abstract Design Pattern](abstract_factory.cpp)
+_Design patterns in modern __C++14___ are available here for learning base and understanding.
 
-2) [Adapter Design Pattern](adapter.cpp)
+Every file represents a standalone compilable program. Use below syntax without quotes
+
+>  "g++ -std=c++14 -o program_name file.cpp"
+
+__1) [Abstract Design Pattern]__(abstract_factory.cpp)
+
+__2) [Adapter Design Pattern]__(adapter.cpp)
