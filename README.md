@@ -6,6 +6,6 @@ Every file represents a standalone compilable program. Use below syntax without 
 
 >  "g++ -std=c++14 -o program_name file.cpp"
 
-__1) [Abstract Design Pattern]__(abstract_factory.cpp)
+1) [__Abstract Design Pattern__](abstract_factory.cpp)
 
-__2) [Adapter Design Pattern]__(adapter.cpp)
+2) [Adapter Design Pattern](adapter.cpp)
