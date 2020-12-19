@@ -11,7 +11,7 @@ __A) Creational design patterns:-__
 
 2) [__Builder__]
 
-3) [__Factory method__](factory.cpp)
+3) [__Factory method__](factory.cpp) 
 
 4) [__Object pool__]
 
@@ -41,7 +41,7 @@ __C) Behavioral design pattern:-__
 
 2) [__Command__](command.cpp)
 
-3) [__Iterator__](iterator.cpp)
+3) [__Iterator__](iterator.cpp) 
 
 4) [__Mediator__]
 
