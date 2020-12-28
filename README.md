@@ -34,7 +34,7 @@ __B) Structural design pattern:-__
 
 7) [__Private class data__]
 
-8) [__Proxy__]
+8) [__Proxy__](proxy.cpp) 
 
 __C) Behavioral design pattern:-__
 1) [__Chain of responsibility__](chain_of_responsibility.cpp)
@@ -49,7 +49,7 @@ __C) Behavioral design pattern:-__
 
 6) [__Null object__]
 
-7) [__Observer__]
+7) [__Observer__](observaer.cpp)
 
 8) [__State__]
 
