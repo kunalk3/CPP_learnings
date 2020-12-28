@@ -49,7 +49,7 @@ __C) Behavioral design pattern:-__
 
 6) [__Null object__]
 
-7) [__Observer__](observaer.cpp)
+7) [__Observer__](observer.cpp)
 
 8) [__State__]
 
