@@ -1,6 +1,6 @@
 ## Modern CPP Design Patterns
 
-_Design patterns in modern __C++14___ are available here for learning base and understanding.
+_Design patterns in modern __C++14___ are demonstrated in this repo.
 
 Every file represents a standalone compilable program. Use below syntax without quotes
 
