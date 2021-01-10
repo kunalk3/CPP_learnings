@@ -17,7 +17,7 @@ __A) Creational design patterns:-__
 
 5) [__Prototype__]
 
-6) [__Singleton__]
+6) [__Singleton__](singletonCRTP.cpp)
 
 __B) Structural design pattern:-__
 1) [__Adapter__](adapter.cpp)
@@ -51,10 +51,10 @@ __C) Behavioral design pattern:-__
 
 7) [__Observer__](observer.cpp)
 
-8) [__State__]
+8) [__State__](state.cpp)
 
-9) [__Strategy__]
+9) [__Strategy__](strategy.cpp)
 
-10) [__Template method__]
+10) [__Template method__](template_method.cpp)
 
-11) [__Visitor__]
+11) [__Visitor__](visitor.cpp)
